@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # --- 1. CONFIGURACIÓN DE IDENTIDAD ---
-NOMBRE_AGENCIA = "Marcanaria<br>Digital"
+NOMBRE_AGENCIA = "Marcanaria<br>"
 ESLOGAN = "IMPULSAMOS TU MARCA"
 # Logo transparente (fantasma) para limpieza visual
 LOGO_URL = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" 
